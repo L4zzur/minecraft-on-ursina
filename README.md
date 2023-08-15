@@ -1,4 +1,4 @@
-# 0. Ресурсы, Используемые модули
+# 0. Ресурсы, используемые модули
 [Minecraft — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Minecraft)
 [Minecraft: история создания, описание - CQ](https://cq.ru/articles/gaming/istoriia-sozdaniia-minecraft)
 [История Minecraft и её создателя. Кто и когда сделал легендарную игру — Игромания (igromania.ru)](https://www.igromania.ru/article/31609/Istoriya_Minecraft_i_eyo_sozdatelya._Kto_i_kogda_sdelal_legendarnuyu_igru.html)
