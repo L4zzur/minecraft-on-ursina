@@ -1,11 +1,15 @@
 # 0. Ресурсы, используемые модули
 [Minecraft — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Minecraft)
+
 [Minecraft: история создания, описание - CQ](https://cq.ru/articles/gaming/istoriia-sozdaniia-minecraft)
+
 [История Minecraft и её создателя. Кто и когда сделал легендарную игру — Игромания (igromania.ru)](https://www.igromania.ru/article/31609/Istoriya_Minecraft_i_eyo_sozdatelya._Kto_i_kogda_sdelal_legendarnuyu_igru.html)
+
 [Как Minecraft устроена за кадром — Minecraft на DTF](https://dtf.ru/s/minecraft/202337-kak-minecraft-ustroena-za-kadrom)
 
 
 [ursina engine](https://www.ursinaengine.org/index.html)
+
 [ursina engine samples](https://www.ursinaengine.org/samples.html)
 
 ```
